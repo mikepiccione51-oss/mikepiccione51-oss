@@ -21,7 +21,6 @@ Data-driven professional with hands-on experience improving warehouse operations
 ---
 
 ## Featured Projects
-## Featured Projects
 
 ### 🔹 Warehouse Operations Analysis
 Python and Power BI project analyzing warehouse performance, identifying error trends, delays, and inefficiencies.
