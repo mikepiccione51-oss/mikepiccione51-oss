@@ -20,12 +20,7 @@ Data-driven professional with hands-on experience improving warehouse operations
 
 ---
 
-## Featured Projects (In Progress)
-🚧 Actively building and uploading projects
-
-- Warehouse Analytics Dashboard (Excel + Power BI)
-- Credit Risk Logistic Regression Model (Python)
-- Manufacturing Defect Analysis (ANOVA)
+## Featured Projects
 
 ---
 
