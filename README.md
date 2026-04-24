@@ -35,4 +35,4 @@ To transition into a data analyst role where I can apply data-driven decision-ma
 ---
 
 ## Connect
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/mike-piccione-745378279
