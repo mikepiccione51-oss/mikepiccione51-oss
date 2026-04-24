@@ -1,16 +1,38 @@
-## Hi there 👋
+# Michael Piccione | Data Analyst
 
-<!--
-**mikepiccione51-oss/mikepiccione51-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 United States  
+🎓 SNHU – Data Analytics  
+💼 Operations Supervisor transitioning into Data Analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Data-driven professional with hands-on experience improving warehouse operations through analytics. Built Excel and Power BI systems that reduced errors by 80% and saved hours of manual research.
+
+---
+
+## Skills
+- Python (pandas, numpy, matplotlib)
+- Power BI
+- Excel (advanced dashboards, tracking systems)
+- Data Visualization
+- SQL (basic)
+
+---
+
+## Featured Projects (In Progress)
+🚧 Actively building and uploading projects
+
+- Warehouse Analytics Dashboard (Excel + Power BI)
+- Credit Risk Logistic Regression Model (Python)
+- Manufacturing Defect Analysis (ANOVA)
+
+---
+
+## Goal
+To transition into a data analyst role where I can apply data-driven decision-making to improve business performance.
+
+---
+
+## Connect
+- LinkedIn: (add your link here)
